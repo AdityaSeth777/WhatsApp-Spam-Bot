@@ -6,7 +6,8 @@ message = input("Enter message:")
 i = 0
 time.sleep(5)
 
-#Aditya Seth
+#Aditya Seth.
+#adityaseth.cse@gmail.com
 while i < int(limit):
     pt.typewrite(message)
     # the message is written where -
